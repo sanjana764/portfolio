@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Project A",
+    "image":"bloodbank",
+    "description": "Blood Bank Management System ",
+    "skills": [ "Python","MySQL","phpMyAdmin","HTML",
+ "CSS", "JavaScript", "XAMPP"],
+    "source": "https://github.com/sanjana764/Blood-Bank-Management-System"
+  },
+  {
+    "title": "Project B",
+    "image":"project",
+    "description": "Hospital Management System ",
+    "skills": ["C"],
+    "source": "https://github.com/sanjana764/Hospital-management"
+  },
+  {
+    "title": "Project C",
+    "image":"project",
+    "description": "World Population Prediction",
+    "skills": ["Python","Regression Model"],    
+    "source": "https://github.com/sanjana764/statml/blob/main/project.ipynb"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "role": "Summer Intern",
+    "organisation": "NIT WARANGAL",
+    "startDate": "6 June 2024",
+    "endDate": "6 July 2024",
+    "experiences": [
+      "Worked on Web Development",
+      "Engineered a dynamic web application leveraging HTML, CSS, and Python",
+      "Enabled efficient database interaction through MySQL, phpMyAdmin, SQLAlchemy, and Flask-MySQL"
+    ]
+  }
+]
