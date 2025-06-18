@@ -22,10 +22,8 @@ export const Hero = () => {
 
 
       </div>
-      <img src={heroImage} alt="Hero Image" 
-        alt="Hero image of me"
-        className={styles.heroImg}
-      />
+      <img src={heroImage} alt="Hero image of me" className={styles.heroImg} />
+
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
