@@ -25,7 +25,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={analyticsIcon} alt="analytics Icon" />
             <div className={styles.aboutItemText}>
-              <h3>Power BI Developer</h3>
+            <h3>Data Analytics Enthusiast</h3>
               <p>
                 
 I specialize in creating interactive and insightful Power BI dashboards and reports, enabling data-driven business decisions.
