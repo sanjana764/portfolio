@@ -5,7 +5,7 @@
     "description": "Blood Bank Management System ",
     "skills": [ "Python","MySQL","phpMyAdmin","HTML",
  "CSS", "JavaScript", "XAMPP"],
-    "source": "https://github.com/sanjana764/Blood-Bank-Management-System"
+    "source": "https://blood-donation-app-ip5q.onrender.com"
   },
   {
     "title": "Project B",
@@ -21,4 +21,19 @@
     "skills": ["Python","Regression Model"],    
     "source": "https://github.com/sanjana764/statml/blob/main/project.ipynb"
   }
+  {
+    "title": "Project D",
+    "image":"ola",
+    "description": "Ola Dashboard",
+    "skills": ["Power BI","SQL","Excel"],    
+    "source": "https://github.com/sanjana764/Ola-Dashboard"
+  }
+  {
+    "title": "Project E",
+    "image":"todo",
+    "description": "To-Do App",
+    "skills": ["React", "Node.js", "MongoDB"],    
+    "source": "https://todo-frontend-zd6t.onrender.com"
+  }
+
 ]
